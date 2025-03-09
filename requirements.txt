@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+yfinance>=0.2.36
+pandas>=2.2.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+textblob>=0.17.1
+plotly>=5.19.0
